@@ -1,0 +1,14 @@
+python main.py --dataset PearsonKendall --hid_units 2 --sc 0
+python main.py --dataset PearsonKendall --hid_units 3 --sc 0
+python main.py --dataset PearsonKendallCopulaGranger --hid_units 2 --sc 0
+python main.py --dataset PearsonKendallCopulaGranger --hid_units 3 --sc 0
+python main.py --dataset PearsonCopula --hid_units 2 --sc 0
+python main.py --dataset PearsonCopula --hid_units 3 --sc 0
+python main.py --dataset PearsonGranger --hid_units 2 --sc 0
+python main.py --dataset PearsonGranger --hid_units 3 --sc 0
+python main.py --dataset KendallCopula --hid_units 2 --sc 0
+python main.py --dataset KendallCopula --hid_units 3 --sc 0
+python main.py --dataset KendallGranger --hid_units 2 --sc 0
+python main.py --dataset KendallGranger --hid_units 3 --sc 0
+python main.py --dataset CopulaGranger --hid_units 2 --sc 0
+python main.py --dataset CopulaGranger --hid_units 3 --sc 0
